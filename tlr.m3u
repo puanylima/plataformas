@@ -8,7 +8,7 @@ https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="locales", America
-https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
+http://190.11.130.46/mnp/america/output.mpd
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="locales", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
@@ -26,22 +26,22 @@ http://190.11.130.46/mnp/elnueve/output.mpd
 http://190.11.130.46/mnp/encuentro/output.mpd
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="locales", TN
-https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="locales", A24
-https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+http://190.11.130.46/mnp/a24/output.mpd
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="locales", C5N
-https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://190.11.130.46/mnp/c5n/output.mpd
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="locales", Cronica HD
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+http://190.11.130.46/mnp/cronica/output.mpd
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="locales", Canal 26
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+http://190.11.130.46/mnp/canal26/output.mpd
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="locales", La Nación +
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+http://190.11.130.46/mnp/lnmas/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="locales", IP Noticias
 http://190.11.130.46/mnp/ip/output.mpd
@@ -69,13 +69,13 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
-http://45.5.151.151:8000/play/a0cc/index.m3u8     
+http://190.11.130.46/mnp/espn/output.mpd     
 
 #EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="Deportes", ESPN 2
-http://45.5.151.151:8000/play/a0cb/index.m3u8
+http://190.11.130.46/mnp/espn2/output.mpd
 
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="Deportes", ESPN 3
-http://45.5.151.151:8000/play/a0hx/index.m3u8
+http://190.11.130.46/mnp/espn3/output.mpd
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="Deportes", FOX Sports
 http://45.5.151.151:8000/play/a0bf/index.m3u8
@@ -84,7 +84,7 @@ http://45.5.151.151:8000/play/a0bf/index.m3u8
 http://190.11.130.46/mnp/fox_sport2/output.mpd
 
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Deportes", FOX Sports 3
-http://zeuspro.xyz:8080/jo5m3ndoz4/VMsaxEqpfE/981
+http://190.11.130.46/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Premium 
 http://45.5.151.151:8000/play/a0fe/index.m3u8
@@ -102,7 +102,7 @@ http://190.11.130.46/mnp/golf/output.mpd
 http://190.11.130.46/mnp/dsc_turbo/output.mpd
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="Deportes", Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
+http://190.11.130.46/mnp/garage/output.mpd
 
 
 
@@ -116,17 +116,14 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ar#axn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png" audio-track="spa" group-title="Entretenimiento", AXN
 http://190.11.130.46/mnp/axn/output.mpd
 
-
-
-
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Entretenimiento", Cinecanal
 http://190.11.130.46/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/129-EuropaEuropa.png" group-title="Entretenimiento", Europa Europa
-http://177.53.153.20:8001/play/a08y/index.m3u8
+http://190.11.130.46/mnp/europa/output.mpd
 
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
-http://179.1.87.75:8098/play/a0h8/index.m3u8
+http://190.11.130.46/mnp/cinemax/output.mpd
 
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="Entretenimiento", Star Channel
 http://190.11.130.46/mnp/foxhd/output.mpd
@@ -150,13 +147,13 @@ http://190.11.130.46/mnp/tnt/output.mpd
 http://190.11.130.46/mnp/tntseries/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Entretenimiento" , VOLVER
-https://nxt.plus:8443/alexandrawwr/223348/213163
+http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49972
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="Entretenimiento", Warner Channel
 http://190.11.130.46/mnp/warner/output.mpd
 
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" audio-track="spa" group-title="Entretenimiento", AMC
-http://177.53.153.20:8001/play/a039/index.m3u8
+http://190.11.130.46/mnp/amc/output.mpd
 
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="Entretenimiento", TCM
 http://190.11.130.46/mnp/tcm/output.mpd
@@ -187,28 +184,28 @@ http://131.161.53.2:8000/play/a02e/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7icW4eGEsDwYW0SGbEizl0/11e491f83fef667f6b5242efe73ce4c5/Premium_04_HBO.png?fm=webp&q=80" group-title="Premium" , HBO
-http://179.1.87.75:8098/play/a0h7/index.m3u8
+http://190.11.130.46/mnp/hbo/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ebb9rED2Ut2MWogfEMWq2/ac8d80f6fd0c403474144aee4723510b/Premium_06_HBOPlus.png?fm=webp&q=80" group-title="Premium" , HBO PLUS HD
-http://179.1.87.75:8098/play/a0ef/index.m3u8
+http://190.11.130.46/mnp/hboplus/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/69ZCAfInUfsT4Q4HKNqenB/e663327079caa7727a6c92f421375c47/Premium_08_HBO2.png?fm=webp&q=80" group-title="Premium" , HBO 2
-http://179.1.87.75:8098/play/a0ee/index.m3u8
+http://190.11.130.46/mnp/hbo2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5bKzSwd0Mu1shRgqL7xwWD/80c78ad02cdc722d2035cbe4395fb5f8/Premium_03_HBOFamily.png?fm=webp&q=80" group-title="Premium" , HBO FAMILY HD
-http://179.1.87.75:8098/play/a0eh/index.m3u8
+http://190.11.130.46/mnp/hbofam/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26mE7OYl09nkFyQcGMv4mo/4190f92a6b036b9c6f710a6849490376/Premium_05_HBOMundi.png?fm=webp&q=80" group-title="Premium" , HBO Mundi
+http://190.11.130.46/mnp/hbomund/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3OamYggD5kfGpnHPj6LcN6/c06f94dbe8efe062bd7d85825acb283e/Premium_10_HBOPOP.png?fm=webp&q=80" group-title="Premium" , HBO POP
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/117
+http://190.11.130.46/mnp/hbopop/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6jfONrEkrlw7SiKxsIsZr1/dea17656d92bae154876d07dc1391863/Premium_09_HBOExtreme.png?fm=webp&q=80" group-title="Premium" , HBO Xtreme
-http://179.1.87.75:8098/play/a0eg/index.m3u8
-
+http://190.11.130.46/mnp/hboxtr/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/77tiTKhe5p80XL5mgv2GX4/17c2b387b7a33cb13dbd5abbec8fe5ba/Premium_07_HBOSignature.png?fm=webp&q=80" group-title="Premium" , HBO Signature HD
-
+http://190.11.130.46/mnp/hbosig/output.mpd
 
 
 
