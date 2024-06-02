@@ -201,7 +201,7 @@ http://190.11.130.46/mnp/paramount/output.mpd
 http://45.71.252.16:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="Entretenimiento", Universal TV
-http://45.71.252.16:8000/play/a09b/index.m3u8
+http://190.11.130.46/mnp/universal/output.mpd
 
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="Entretenimiento", TCM
 http://190.11.130.46/mnp/tcm/output.mpd
