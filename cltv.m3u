@@ -56,7 +56,7 @@ https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="Nacionales" , METRO
-
+http://181.191.140.2:8000/play/a0g0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2cxt3hOO4yflyPkLMD1564/7a815a1bd70c3001b1ef24010af5d6bd/canal-ciudad-magazine.png?fm=webp&q=80" group-title="Nacionales" , Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -329,7 +329,7 @@ http://177.53.153.20:8001/play/a04f/index.m3u8
 http://190.11.130.46/mnp/history/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="Culturales" , CANAL A 
-
+http://181.191.140.2:8000/play/a0ft/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6AxsQaLOHP3xwHmicPTuTF/ff3c5c8494751d34459b466b30640de3/10_Rural.png?fm=webp&q=80" group-title="Varios" , CANAL Rural
 https://streamlovcd1.alsolnet.com/elrural/live/playlist.m3u8
@@ -385,7 +385,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 http://45.5.117.182:8000/play/a0ci/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="Musica" , Quiero Música
-http://45.172.16.186:8000/play/a0c1
+http://181.191.140.2:8000/play/a0g8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1DblwFFbxHwdhBQSGMOLou/f556b80bb9004ebd325b9830323a17c7/113_CanaldelaMusica.png?fm=webp&q=80" group-title="Musica" , CM
 https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
