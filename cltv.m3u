@@ -207,7 +207,7 @@ http://45.71.252.16:8000/play/a0a8/index.m3u8
 http://190.11.130.46/mnp/telemundo/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Entretenimiento" , VOLVER
-http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49972
+http://181.191.140.2:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Entretenimiento" , TVE
 http://45.71.252.16:8000/play/a09o/index.m3u8
