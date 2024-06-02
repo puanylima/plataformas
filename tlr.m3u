@@ -147,7 +147,7 @@ http://190.11.130.46/mnp/tnt/output.mpd
 http://190.11.130.46/mnp/tntseries/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Entretenimiento" , VOLVER
-http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49972
+http://181.191.140.2:8000/play/a0fp/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="Entretenimiento", Warner Channel
 http://190.11.130.46/mnp/warner/output.mpd
