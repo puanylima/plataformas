@@ -48,7 +48,7 @@ http://190.11.130.46/mnp/encuentro/output.mpd
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="Entretenimiento" , VOLVER
-http://tomoline.top:8080/VIP0172171077618158/0d774a4292b9/4825
+http://abcnew.site:8880/3ca04303n08/asfefd4wr34/49972
 
 
 
@@ -128,7 +128,7 @@ http://190.11.130.46/mnp/nickelodeon/output.mpd
 http://190.11.130.46/mnp/nickjr/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BitMe.svg/1629px-BitMe.svg.png" audio-track="spa" group-title="Infantiles", Bitme
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
+http://206.62.161.251:22000/play/a00c/index.m3u8
 
 
 
@@ -142,7 +142,7 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 http://190.11.130.46/mnp/cnn/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Internacionales" , TVE
-http://131.161.53.2:8000/play/a06t/index.m3u8
+http://45.71.252.16:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://pbs.twimg.com/profile_images/1475448542227570690/5u-d7ggL_400x400.jpg" group-title="Internacionales" , RAI NEWS
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
@@ -189,25 +189,25 @@ http://190.11.130.46/mnp/cinecanal/output.mpd
 http://190.11.130.46/mnp/space/output.mpd
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/27977740.jpg" group-title="Entretenimiento", TNT Novelas
-http://190.121.153.89:8000/play/a017/index.m3u8
+http://45.71.252.16:8000/play/a0b2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="Entretenimiento" , STUDIO UNIVERSAL
-http://131.161.53.2:8000/play/a02y/index.m3u8
+http://45.71.252.16:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Entretenimiento", Paramount Channel
 http://190.11.130.46/mnp/paramount/output.mpd
 
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
-http://190.121.153.89:8000/play/a04x/index.m3u8
+http://45.71.252.16:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="Entretenimiento", Universal TV
-http://190.121.153.89:8000/play/a04i/index.m3u8
+http://45.71.252.16:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="Entretenimiento", TCM
 http://190.11.130.46/mnp/tcm/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="Entretenimiento", Usa
-http://190.121.153.89:8000/play/a011/index.m3u8
+http://190.11.130.46/mnp/syfy/output.mpd
 
 #EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/129-EuropaEuropa.png" group-title="Entretenimiento", Europa Europa
 http://190.11.130.46/mnp/europa/output.mpd
@@ -234,7 +234,7 @@ http://177.53.153.20:8001/play/a03v/index.m3u8
 http://190.11.130.46/mnp/disc_hh/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="Varios" , Hogar TV 
-http://131.161.53.2:8000/play/a00u/index.m3u8
+http://45.177.53.7:8000/play/a0jm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Varios", ID
 http://177.53.153.20:8001/play/a02j/index.m3u8
@@ -251,7 +251,7 @@ http://190.11.130.46/mnp/natgeohd/output.mpd
 http://186.148.163.18:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet
-http://177.53.153.20:8001/play/a03k/index.m3u8
+http://45.5.117.182:8000/play/a0hu/index.m3u8
 
 #EXTINF:-1 tvg-id="AESouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png" audio-track="spa" group-title="Culturales", A&E
 http://190.11.130.46/mnp/ae/output.mpd
@@ -263,7 +263,7 @@ http://190.11.130.46/mnp/discovery/output.mpd
 http://177.53.153.20:8001/play/a04f/index.m3u8
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="Culturales", History
-http://190.121.153.89:8000/play/a02m/index.m3u8
+http://190.11.130.46/mnp/history/output.mpd
 
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="Varios", Discovery Turbo
 http://190.11.130.46/mnp/dsc_turbo/output.mpd
@@ -272,10 +272,10 @@ http://190.11.130.46/mnp/dsc_turbo/output.mpd
 http://190.11.130.46/mnp/garage/output.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="Varios", E! 
-http://190.121.153.89:8000/play/a00x/index.m3u8
+http://45.71.252.16:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="Varios", Las Estrellas
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+http://45.182.190.228:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="Varios", CANAL LUZ
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8
@@ -303,28 +303,27 @@ http://190.11.130.46/mnp/mtv/output.mpd
 
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/20068539.jpg" group-title="Infantiles", Dreamworks
-http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+http://45.189.148.24:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/20105138.jpg" group-title="Entretenimiento", Sony Movies
-http://138.59.177.34:8000/play/a037/index.m3u8
+http://45.71.252.16:8000/play/a0hk/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="Premium" , Universal Crime
-http://131.161.53.2:8000/play/a05v/index.m3u8
+http://45.231.104.67:6102/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="Premium" , Universal Cinema
-http://131.161.53.2:8000/play/a07c/index.m3u8
+http://45.5.117.182:8000/play/a0jz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="Premium" , Universal Comedy
-http://131.161.53.2:8000/play/a05w/index.m3u8
+http://45.231.104.67:6102/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="Premium" , Universal Reality
-http://131.161.53.2:8000/play/a05u/index.m3u8
+http://45.231.104.67:6102/play/a030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="Premium" , Universal Premiere
-http://131.161.53.2:8000/play/a05s/index.m3u8
-
+http://45.5.117.182:8000/play/a0ig/index.m3u8
 
 
 
