@@ -162,7 +162,7 @@ http://190.11.130.46/mnp/tcm/output.mpd
 http://190.11.130.46/mnp/fx/output.mpd
 
 #EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Entretenimiento", Lifetime
-http://190.121.153.89:8000/play/a04x/index.m3u8
+http://45.71.252.16:8000/play/a09q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/69tV4QpbgqFdQoLLgzQxB1/3aff5e0e14c47a614e60fd4594f2f213/341-cine.ar.png?fm=webp&q=80" group-title="Entretenimiento" , CINE AR 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -177,7 +177,8 @@ http://190.11.130.46/mnp/ae/output.mpd
 http://190.11.130.46/mnp/comedy/output.mpd
 
 #EXTINF:-1 tvg-id="TBSSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="Entretenimiento", TNT Novelas
-http://131.161.53.2:8000/play/a02e/index.m3u8
+http://45.71.252.16:8000/play/a0b2/index.m3u8
+
 
 
 
@@ -246,7 +247,6 @@ http://190.11.130.46/mnp/babytv/output.mpd
 #EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="Infantiles", Disney Jr
 http://190.11.130.46/mnp/disneyjr/output.mpd
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="Infantiles", Tooncast 
 http://190.11.130.46/mnp/tooncast/output.mpd
 
@@ -257,7 +257,7 @@ http://190.11.130.46/mnp/nickelodeon/output.mpd
 http://190.11.130.46/mnp/nickjr/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/1l5rQEtOVHxuQK62jbIaQl/1bd3e287fddd97c71cf2f3b5d9e5fe85/Canal_-_TeenNick.png?fm=webp&q=80" group-title="Infantiles" , Teen Nick
-http://131.161.53.2:8000/play/a02x/index.m3u8
+http://45.5.117.182:8000/play/a0fg/index.m3u8
 
 
 
@@ -279,13 +279,13 @@ http://177.53.153.20:8001/play/a03v/index.m3u8
 http://190.11.130.46/mnp/gourmet/output.mpd
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="Varios", E! 
-http://190.121.153.89:8000/play/a00x/index.m3u8
+http://45.71.252.16:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xqQEfRfgmd-7W5YSrsMCULg4NYd2QLU912no0Dmok4FCdC4LI_romUJTN0sRDanNuyarQjJ9=s88-c-k-c0x00ffffff-no-rj" group-title="Varios", Diputados TV 
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 
 #EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="Varios", Mas Chic
-http://budtvlight.com:25461/bud-1882009/1e621f3272/1488
+http://190.11.130.46/mnp/maschic/output.mpd
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Varios", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -300,7 +300,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/c
 
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet
-http://177.53.153.20:8001/play/a03k/index.m3u8
+http://45.5.117.182:8000/play/a0hu/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" audio-track="spa" group-title="Culturales", Discovery Channel
 http://190.11.130.46/mnp/discovery/output.mpd
@@ -318,7 +318,7 @@ http://190.11.130.46/mnp/natgeohd/output.mpd
 http://190.11.130.46/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="Culturales" , Hogar TV 
-http://131.161.53.2:8000/play/a00u/index.m3u8
+http://45.177.53.7:8000/play/a0jm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Entretenimiento", Discovery Science
 http://190.11.130.46/mnp/dsc_sci/output.mpd
@@ -331,16 +331,16 @@ http://177.53.153.20:8001/play/a04f/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="Musica" , MTV 00's
-http://131.161.53.2:8000/play/a04b/index.m3u8
+http://45.5.117.182:8000/play/a0gk/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
 http://190.11.130.46/mnp/mtv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/FgFGNa1nlJe1421Gml6tS/973fd196608694bb8250967c8dd026c9/120_NickMusic.png?fm=webp&q=80" group-title="Musica" , Nick Music
-http://131.161.53.2:8000/play/a02x/index.m3u8
+http://45.179.164.30:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="Musica" , MTV Hits
-http://131.161.53.2:8000/play/a02i/index.m3u8
+http://45.5.117.182:8000/play/a0f1/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
 http://190.11.130.46/mnp/htv/output.mpd
@@ -362,7 +362,7 @@ https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="Internacionales", Las Estrellas
-https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+http://45.182.190.228:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", FRANCE 24 ESPAÑOL
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -371,10 +371,10 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Internacionales" , TVE
-http://131.161.53.2:8000/play/a06t/index.m3u8
+http://45.71.252.16:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Internacionales", GALICIA TV
-http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telered.com.ar/img/logos_ch/logos-CANALVASCO-2705.png" group-title="Internacionales", CANAL VASCO
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
