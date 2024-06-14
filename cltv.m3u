@@ -92,7 +92,7 @@ http://190.11.130.46/mnp/espn3/output.mpd
 http://190.11.130.46/mnp/espn_extra/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4ldZDRBks3tZobn7OFbJFv/0e8234bc1152282a4a9fc544d5c672c0/Fox-Sports.png?fm=webp&q=80" group-title="Deportes" , Fox Sports
-http://45.5.151.151:8000/play/a0bf/index.m3u8
+http://190.11.130.46/mnp/fox_sport/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4aUalIxOYo8Wm9dBLL4Jc/42b4317edaf316d7018cca8d947300b4/Fox-Sports-2.png?fm=webp&q=80" group-title="Deportes" , Fox Sports 2
 http://190.11.130.46/mnp/fox_sport2/output.mpd
