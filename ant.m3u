@@ -65,7 +65,7 @@ http://45.5.151.151:8000/play/a002/index.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="Deportes", FOX Sports
-http://45.5.151.151:8000/play/a0bf/index.m3u8
+http://190.11.130.46/mnp/fox_sport/output.mpd
 
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="Deportes", FOX Sports 2
 http://190.11.130.46/mnp/fox_sport2/output.mpd
