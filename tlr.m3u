@@ -367,9 +367,6 @@ http://45.182.190.228:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", FRANCE 24 ESPAÑOL
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://pbs.twimg.com/profile_images/1475448542227570690/5u-d7ggL_400x400.jpg" group-title="Internacionales" , RAI NEWS
-https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7jOLhFfEgvIJD81fcVjRpD/95fddfd8e7b896ea3dca3c6ee63fbe42/62_TVE.png?fm=webp&q=80" group-title="Internacionales" , TVE
 http://45.71.252.16:8000/play/a09o/index.m3u8
 
