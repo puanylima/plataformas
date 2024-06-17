@@ -346,8 +346,6 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2xKKf5FbEuF0k9lQFVpCG6/5c9be8f8de1ae9570b4311edf4c64c88/103_DeutscheWelleAmerika.png?fm=webp&q=80" group-title="Internacional" , Deutsche Welle Amerika
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2F8MPtMgLmmXNQpDdups4e/337ac83dd1772ba3786a83a00ed32659/104_RAI.png?fm=webp&q=80" group-title="Internacional" , RAI News
-https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/iy6VXTjNyN9R9TRHtXYvK/e55f727585e08507bd216b796714e6b3/Canal_-_UCL.png?fm=webp&q=80" group-title="Varios" , UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
