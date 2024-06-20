@@ -246,7 +246,7 @@ http://190.11.130.46/mnp/disc_hh/output.mpd
 http://45.177.53.7:8000/play/a0jm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Variedades", ID
-http://177.53.153.20:8001/play/a02j/index.m3u8
+http://190.11.130.46/mnp/axn/output.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="Variedades", National Geographic
 http://190.11.130.46/mnp/natgeohd/output.mpd
@@ -264,7 +264,7 @@ http://190.11.130.46/mnp/ae/output.mpd
 http://190.11.130.46/mnp/discovery/output.mpd
 
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Variedades", History 2
-http://177.53.153.20:8001/play/a04f/index.m3u8
+http://181.191.140.2:8000/play/a0g3/index.m3u8
 
 #EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="Variedades", History
 http://190.11.130.46/mnp/history/output.mpd
