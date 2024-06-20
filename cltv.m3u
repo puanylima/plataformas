@@ -80,13 +80,13 @@ https://r.mjh.nz/PlutoTV/6320d80a66666000086712d7-alt.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3NCwVCRCmBEov5n6ou5hAA/c4270c0c6d2988c47c6350ca36175180/13_ESPN.png?fm=webp&q=80" group-title="Deportes" , ESPN
-http://190.11.130.46/mnp/espn/output.mpd     
+https://tvfuego.cdn.rcs.net.ar/mnp/espn/output.mpd     
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4mdSmIihFejWNGVPiIMkvz/d76a823f16543c95ec31e0cea741201a/14_ESPN2.png?fm=webp&q=80" group-title="Deportes" , ESPN 2
-http://190.11.130.46/mnp/espn2/output.mpd
+http://181.191.140.2:8000/play/a0gu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/40Af6YGkRbNo4itC8W6bq4/609b923b2441aa8b32a7d5f9fec977c9/15_ESPN3.png?fm=webp&q=80" group-title="Deportes" , ESPN 3
-http://190.11.130.46/mnp/espn3/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/espn3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/ESPN%204.jpg" group-title="Deportes",ESPN 4
 http://190.11.130.46/mnp/espn_extra/output.mpd
